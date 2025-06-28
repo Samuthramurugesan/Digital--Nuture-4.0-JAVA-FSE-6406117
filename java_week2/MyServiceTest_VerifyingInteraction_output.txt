@@ -1,0 +1,3 @@
+Test: testVerifyGetDataCalled
+Expected Method Call: mockApi.getData()
+Interaction Verified: true
