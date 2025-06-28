@@ -1,0 +1,9 @@
+Future Value (Recursive): 1276.28
+Future Value (Optimized Recursive): 1276.28
+
+=== Analysis ===
+Recursive Time Complexity: O(n) - Each year involves one recursive call.
+Optimized Recursive: O(n) with memoization avoids repeated calculations.
+
+Recursion simplifies the logic but may lead to stack overflows or redundant work for large inputs.
+Memoization reduces repeated computations, improving performance for larger timeframes.

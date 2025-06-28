@@ -1,0 +1,11 @@
+Linear Search Result:
+ProductID: 2, Name: Shoes, Category: Footwear
+
+Binary Search Result:
+ProductID: 2, Name: Shoes, Category: Footwear
+
+=== Analysis ===
+Linear Search: O(n) - Best: O(1), Avg/Worst: O(n)
+Binary Search: O(log n) - Requires sorted array
+
+Binary search is more efficient for large, sorted datasets, while linear search is simpler but slower for large data.
