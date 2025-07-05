@@ -1,0 +1,3 @@
+Constructor Injection: BookRepository injected.
+Setter Injection: BookRepository injected.
+Fetching book list from repository...
