@@ -1,7 +1,0 @@
-Spring Boot Library Management Application started.
-Test using endpoints:
-GET     /books
-POST    /books
-GET     /books/{id}
-PUT     /books/{id}
-DELETE  /books/{id}
